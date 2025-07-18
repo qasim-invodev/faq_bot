@@ -2,8 +2,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from langchain_community.document_loaders import TextLoader
-from langchain_community.text_splitter import CharacterTextSplitter
-from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_text_splitters import CharacterTextSplitter
+from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 
 # Load and split the text
