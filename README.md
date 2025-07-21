@@ -1,3 +1,3 @@
-FAQ Chatbot which can ingest text and pdf files, in case of PDF, it uses Vector stores to embed data.
+THIS REPO CONTAINS MULTIPLE CHATBOTS AND SCENARIOS USING LANGCHAIN, LANGGRAPH, CREW.AI.
 
-We are asking questions from chatbot regarding the knowledge base we provide.
+It has varying technologies to practie chatbots, vector stores and for different use cases.
