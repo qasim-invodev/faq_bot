@@ -1,3 +1,3 @@
-FAQ Chatbot whre QA's can be retreived from a text file. The Functionality can be extended to retrieve from PDF files as well.
+FAQ Chatbot which can ingest text and pdf files, in case of PDF, it uses Vector stores to embed data.
 
-OPEN API Subscription required
+We are asking questions from chatbot regarding the knowledge base we provide.

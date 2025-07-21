@@ -2,3 +2,5 @@
 
 ai_chatbots/
 .python-version
+__pycache__/
+iz_handbook_24.pdf
