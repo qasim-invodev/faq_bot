@@ -1,0 +1,1 @@
+This mini project is to provide a pdf knowledge base to OPEN_AI LLM to train on a Company's Employee Handbook and be used in a Chatbot for Q/A sessions.
